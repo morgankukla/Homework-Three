@@ -1,0 +1,11 @@
+body{
+    background-color: #00BFFF;
+}
+#welcome{font-size: 30pt}
+#SimpleSC{font-size: 20pt; text-decoration: underline; color: greenyellow; text-align: center}
+#salarycalc{text-decoration: underline}
+#formAlign{text-align: center}
+.numbers{color:white}
+#netpay{color:red}
+#taxamount{color: yellow}
+#grosspay {color: purple}
